@@ -1,0 +1,5 @@
+// AUTH CONSTANTS
+// export const SET_USER_LOADING = "SET_USER_LOADING";
+// export const SET_CURRENT_USER = "SET_CURRENT_USER";
+// export const USER_LOGOUT = "USER_LOGOUT";
+// export const SET_LOGOUT_USER = "SET_LOGOUT_USER";
