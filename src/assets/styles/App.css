@@ -1,0 +1,41 @@
+.navbar-custom {
+    background-color: #051E34;
+    border-bottom: 0.5px solid #2B2F4C;
+}
+/* change the brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: rgba(255,255,255,.8);
+}
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+    color: rgba(255,255,255,.5);
+}
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ffffff;
+}
+
+.main-body{
+    background-color: #e4e4e4;
+    font-size: small;
+}
+
+.main-footer{
+    font-size: small;
+}
+
+.error{
+    color: red;
+}
+
+.is-invalid{
+    border: 0.5px solid red;
+}
+
+.xs-button{
+    height: 20px;
+    padding-top: 2px;
+    font-size: x-small;
+}
